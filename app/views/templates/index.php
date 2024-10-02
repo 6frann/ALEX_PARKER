@@ -11,7 +11,7 @@
     </div>
     <!-- Preloader End -->
 
-    <?php include '../app/views/templates/partials/main.php'; ?>
+    <?php include '../app/views/templates/partials/_main.php'; ?>
 
     <!-- Back to Top Start -->
     <a href="#" class="scroll-to-top"><i class="fa fa-long-arrow-up"></i></a>
